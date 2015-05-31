@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n	<head>\n		<meta charset=\"utf-8\">\n		<!-- Title here -->\n		<title>Paper - March 2015</title>\n		<!-- Description, Keywords and Author -->\n<meta name=\"description\" content=\"Your description\">\n    <meta name=\"keywords\" content=\"Your,Keywords\">\n    <meta name=\"author\" content=\"Ania Tassinari\">\n    \n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <!-- Styles -->\n    <!-- Bootstrap CSS -->\n    <link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">\n    <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->\n    <link rel=\"stylesheet\" href=\"css/settings.css\" media=\"screen\" />\n    <!-- Pretty Photo CSS -->\n    <link href=\"css/prettyPhoto.css\" rel=\"stylesheet\">\n    <!-- Parallax slider -->\n    <link rel=\"stylesheet\" href=\"css/slider.css\">\n    <!-- Flexslider -->\n    <link rel=\"stylesheet\" href=\"css/flexslider.css\">\n    <!-- Font awesome CSS -->\n    <!--<link href=\"css/font-awesome.min.css\" rel=\"stylesheet\"> --> \n\n    <!-- Custom CSS -->\n    <link href=\"css/style.css\" rel=\"stylesheet\">\n    <!-- Colors - Orange, Purple, Light Blue (lblue), Red, Green and Blue -->\n    <link href=\"css/red.css\" rel=\"stylesheet\">\n    \n    <!-- Favicon -->\n    <link rel=\"shortcut icon\" href=\"img/favicon/favicon.png\">\n    <link href=\"http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n  </head>\n  \n  <body>\n\n  <!-- Header Starts -->\n    <header>\n      <div class=\"container\">\n      <div class=\"row\">\n        <!-- <div class=\"col-md-4 col-sm-4\"> -->\n        <div class=\"col-md-12\">\n        <div class=\"logo\">\n          <h1><a href=\"index.html\">CBM <span class=\"color\">Journal Club</span></a></h1>\n          <div class=\"hmeta\">Section of Computational Biomedicine</div>\n          <div class=\"hmeta\">Boston University School of Medicine</div>\n        </div>\n        </div>\n      <!--\n        <div class=\"col-md-5 col-md-offset-3 col-sm-6 col-sm-offset-2\">\n        \n          <form class=\"form-inline\" role=\"form\">\n            <div class=\"form-group\">\n            <input type=\"text\" class=\"form-control\" id=\"search\" placeholder=\"This doesn't work yet..\">\n            </div>\n            <button type=\"submit\" class=\"btn btn-default\">Search</button>\n          </form>\n        \n        </div>\n        -->\n      </div>\n      </div>\n    </header>\n\n    <!-- Navigation bar starts -->\n\n    <div class=\"navbar bs-docs-nav\" role=\"banner\">\n      <div class=\"container\">\n       <div class=\"navbar-header\">\n       <button class=\"navbar-toggle\" type=\"button\" data-toggle=\"collapse\" data-target=\".bs-navbar-collapse\">\n         <span class=\"sr-only\">Toggle navigation</span>\n         <span class=\"icon-bar\"></span>\n         <span class=\"icon-bar\"></span>\n         <span class=\"icon-bar\"></span>\n       </button>\n       </div>\n       \n        <nav class=\"collapse navbar-collapse bs-navbar-collapse\" role=\"navigation\">\n        <ul class=\"nav navbar-nav\">\n            <li class=\"dropdown\">\n                         <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\">Home <b class=\"caret\"></b></a>\n                         <ul class=\"dropdown-menu\">\n                           <li><a href=\"http://cbmjc.aniatassinari.com\">Journal Club Main Page</a></li>\n                           <li><a href=\"http://www.bumc.bu.edu/compbiomed/\" target=\"_blank\">About CBM</a></li>\n                           <li><a href=\"http://pulmonomics.com/tiki-list_file_gallery.php?galleryId=10\" target=\"_blank\">\n                            Past Journal Club Articles (wiki)\n                           </a></li>\n                           <li><a href=\"http://pulmonomics.com/tiki-list_file_gallery.php?galleryId=19\" target=\"_blank\">Past Journal Club Presentations (wiki)</a></li>\n                         </ul>\n                      </li> \n          <!-- Refer Bootstrap navbar doc -->\n          \n          <li><a href=\"index.html#papers\">Papers</a></li>\n          <li><a href=\"index.html#presenters\">Presenters</a></li>\n          <li><a href=\"http://www.bumc.bu.edu/compbiomed/contact-us/\">Contact</a></li>\n        </ul>\n        </nav>\n       </div>\n      </div>\n\n    <!-- Navigation bar ends -->\n\n<div class=\"content projects\">\n  <div class=\"container\">\n\n    <h2>March 2015</h2>\n    <p class=\"big grey\">Presenter: <i><a href=\"aboutus.html#liz\">Liz Moses</a></i></p>\n    <hr />\n\n       <div class=\"row\">\n\n          <div class=\"col-md-8 col-sm-8\">\n                            <!-- Title -->\n                              <h3>Experimental Paper</h3>\n                              \n                                \n                               <img src=\"img/photos/papers/paper_marI2015.png\" class=\"img-responsive\" alt=\"\" style=\"border:1px solid black\"/>\n                               \n                              \n                              <hr />\n\n                                 <div class=\"row\">\n          <div class=\"col-md-12\">\n            <blockquote>\n            <h6><strong>Abstract</strong></h6>\n            <p>\n\n            <b>Background:</b> Agents targeting programmed death-1 receptor (PD-1) and its ligand (PD-L1) are showing promising results in non-small-cell lung cancer (NSCLC). It is unknown whether PD-1/PD-L1 are differently expressed in oncogene-addicted NSCLC.<br>\n<b>Methods:</b> We analysed a cohort of 125 NSCLC patients, including 56 EGFR mutated, 29 KRAS mutated, 10 ALK translocated and 30 EGFR/KRAS/ALK wild type. PD-L1 and PD-1 expression were assessed by immunohistochemistry. All cases with moderate or strong staining (2 þ /3 þ ) in 45% of tumour cells were considered as positive.<br>\n<b>Results:</b> PD-1 positive (þ) was significantly associated with current smoking status (P1⁄40.02) and with the presence of KRAS mutations (P 1⁄4 0.006), whereas PD-L1 þ was significantly associated to adenocarcinoma histology (P 1⁄4 0.005) and with presence of EGFR mutations (P 1⁄4 0.001). In patients treated with EGFR tyrosine kinase inhibitors (N 1⁄4 95), sensitivity to gefitinib or erlotinib was higher in PD-L1 þ vs PD-L1 negative in terms of the response rate (RR: P 1⁄4 0.01) time to progression (TTP: Po0.0001) and survival (OS: P 1⁄4 0.09), with no difference in PD1 þ vs PD-1 negative. In the subset of 54 EGFR mutated patients, TTP was significantly longer in PD-L1 þ than in PD-L1 negative (P 1⁄4 0.01).<br>\n<b>Conclusions:</b> PD-1 and PD-L1 are differentially expressed in oncogene-addicted NSCLC supporting further investigation of specific checkpoint inhibitors in combination with targeted therapies.\n\n            </p>\n            <small>D'Incecco <i>et al.</i>, <span class=\"color\"><i>British Journal of Cancer</i></span></small>\n            </blockquote>\n          </div>\n          <div class=\"col-md-12\">\n            <h6><strong>Summary</strong></h6>\n                                             <!-- List -->\n                                             <ul>\n                                                <li><strong>Purpose</strong></li>\n            <li><strong>Theoretical Framework</strong></li>\n            <li><strong>Sample</strong></li>\n            <li><strong>Methods</strong></li>\n            <li><strong>Measures</strong></li>\n            <li><strong>Results</strong></li>\n            <li><strong>Strengths / Limitations</strong></li>\n            <li><strong>Discussion</strong></li>\n                                             </ul>\n                                             <hr />\n\n          </div>\n          </div>\n                              \n                           </div>   \n                          \n                           <div class=\"col-md-4 col-sm-4\"> \n                              <!-- Project details -->\n                              <div class=\"prdetails well\">\n                                 <!-- Project title -->\n                                 \n                                 \n                                 \n                                 <!-- Buttons -->\n                                 <div class=\"button\"><a href=\"http://www.nature.com/bjc/journal/v112/n1/pdf/bjc2014555a.pdf\"><i class=\"fa fa-2x fa-file-pdf-o\"></i> Download the paper (PDF via proxy)</a> </div>\n                                 <div class=\"button\"><a href=\"http://www.nature.com/bjc/journal/v112/n1/full/bjc2014555a.html\" target=\"blank\"><i class=\"fa fa-2x fa-globe\"></i> Read the paper online (publisher website)</a> </div>\n                                 <div class=\"button\"><a href=\"\"><i class=\"fa fa-2x fa-file-powerpoint-o\"></i> Download presentation slides (wiki)</a> </div>\n                                <hr>\n                                 <h6 class=\"title\"><strong>How to cite this paper</strong></h6>\n                                 <!-- Project para -->\n                                 <p><strong>MLA</strong>: D’Incecco, A., M. Andreozzi, V. Ludovini, E. Rossi, A. Capodanno, L. Landi, C. Tibaldi, G. Minuti, J. Salvini, E. Coppi, A. Chella, G. Fontanini, M. E. Filice, L. Tornillo, R. M. Incensati, S. Sani, L. Crino, L. Terracciano and F. Cappuzzo. \"PD-1 and PD-L1 expression in molecularly selected non-small-cell lung cancer patients.\" <i>British Journal of Cancer</i> 112.1 (2015): 95-102. Print.</p>\n                              </div>\n\n                           </div>\n                        </div>\n\n  \n<!-- Product & links ends --> \n\n  </div>\n</div>\n\n<!-- Social -->\n\n<div class=\"social-links\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-md-12\">\n        <p class=\"big\"><span>Follow Us On</span> <a href=\"https://www.facebook.com/compbiomed\"><i class=\"fa fa-facebook\"></i>Facebook</a> <a href=\"https://twitter.com/BU_CBM\"><i class=\"fa fa-twitter\"></i>Twitter</a><a href=\"https://www.linkedin.com/groups/Computational-Biomedicine-Boston-University-School-8186800?home=&gid=8186800&trk=anet_ug_hm&goback=%2Emid_I5926005501451059200*4500_*1_*1_*1\"><i class=\"fa fa-linkedin\"></i>LinkedIn</a></p>\n      </div>\n    </div>    \n  </div>\n</div>\n\n\n<!-- Footer -->\n<footer>\n  <div class=\"container\">\n   \n    <div class=\"row\"> \n      <div class=\"col-md-12\">\n          <div class=\"copy\">\n                <h6>CBM <span class=\"color\">Journal Club</span></h6>\n                <p>Copyright &copy; <a href=\"#\">CBM @ BU</a> - <a href=\"index.html\">Home</a> | <a href=\"aboutus.html\">About Us</a> | <a href=\"http://www.bumc.bu.edu/compbiomed/contact-us/\">Contact Us</a></p>\n              </div>\n      </div>\n    </div>\n  <div class=\"clearfix\"></div>\n  </div>\n</footer> \n    \n        \n    <!-- Javascript files -->\n    <!-- jQuery -->\n    <script src=\"js/jquery.js\"></script>\n    <!-- Bootstrap JS -->\n    <script src=\"js/bootstrap.min.js\"></script>\n    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->\n    <script src=\"js/jquery.themepunch.plugins.min.js\"></script>\n    <script src=\"js/jquery.themepunch.revolution.min.js\"></script>\n    <!-- Isotope for gallery -->\n    <script src=\"js/jquery.isotope.js\"></script> \n    <!-- prettyPhoto for images -->\n    <script src=\"js/jquery.prettyPhoto.js\"></script> \n    <!-- Parallax slider -->\n    <script src=\"js/jquery.cslider.js\"></script>\n    <script src=\"js/modernizr.custom.28468.js\"></script>\n    <!-- Filter for support page -->\n    <script src=\"js/filter.js\"></script>\n    <!-- Cycle slider -->\n    <script src=\"js/cycle.js\"></script> \n    <!-- Flex slider -->\n    <script src=\"js/jquery.flexslider-min.js\"></script> \n    <!-- Easing -->\n    <script src=\"js/easing.js\"></script> \n    <!-- Respond JS for IE8 -->\n    <script src=\"js/respond.min.js\"></script>\n    <!-- HTML5 Support for IE -->\n    <script src=\"js/html5shiv.js\"></script>\n    <!-- Custom JS -->\n    <script src=\"js/custom.js\"></script>\n    <script>\n      // Revolution Slider\n      var revapi;\n      jQuery(document).ready(function() {\n           revapi = jQuery('.tp-banner').revolution(\n          {\n            delay: 9000,\n            startwidth: 1200,\n            startheight: 500,\n            hideThumbs: 200,\n            shadow: 0,\n            navigationType: \"none\",\n            hideThumbsOnMobile: \"on\",\n            hideArrowsOnMobile: \"on\",\n            hideThumbsUnderResoluition: 0,\n            touchenabled: \"on\",\n            fullWidth: \"on\"\n          });\n      }); \n    </script>\n  </body> \n</html>\n",
+			"file": "paper_marI2015.html",
+			"file_size": 12425,
+			"file_write_time": 1425335100000000,
+			"settings":
+			{
+				"buffer_size": 12169,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "aboutus.html",
+			"settings":
+			{
+				"buffer_size": 17136,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap.min.css",
+			"settings":
+			{
+				"buffer_size": 91167,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 30344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 18656,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "[ti:There There]\n[ar:Radiohead]\n[al:]\n\n[00:22.74]There There\n[00:35.95]Radiohead\n[00:46.43]in pitch dark i go walking in your landscape.\n[01:01.73]broken branches trip me as i speak.\n[01:15.93]just because you feel it doesnt mean it's there.\n[01:30.12]just because you feel it doesnt mean it's there.\n[01:48.18]\n[01:54.32]there's always a siren\n[01:59.29]singing you to shipwreck.\n[02:02.12]（don't reach out, don't reach out）\n[02:09.93]steer away from these rocks\n[02:14.03]we'd be a walking disaster.\n[02:17.18]（don't reach out, don't reach out）\n[02:24.11]\n[02:25.20]just because you feel it doesn't mean it's there.\n[02:31.92]（there's someone on your shoulder）\n[02:40.25]just because you feel it doesn't mean it's there.\n[02:47.60]（there's someone on your shoulder）\n[02:53.17]\n[02:54.13]there there\n[03:15.20]why so green ?and lonely and lonely and lonely\n[03:36.17]heaven sent you to me.to me to me\n[04:14.64]\n[04:17.67]we are accidents\n[04:25.35]waiting waiting to happen.\n[04:38.05]\n[04:39.05]we are accidents\n[04:47.00]waiting waiting to happen.",
+			"file": "/Users/antass/Downloads/Radiohead - There There.lrc",
+			"file_size": 1067,
+			"file_write_time": 1429536122000000,
+			"settings":
+			{
+				"buffer_size": 1051,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/antass/Desktop/K.taskpaper",
+			"settings":
+			{
+				"buffer_size": 13553,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n	<head>\n		<meta charset=\"utf-8\">\n		<!-- Title here -->\n		<title>Paper - April I 2015</title>\n		<!-- Description, Keywords and Author -->\n<meta name=\"description\" content=\"Your description\">\n    <meta name=\"keywords\" content=\"Your,Keywords\">\n    <meta name=\"author\" content=\"Ania Tassinari\">\n    \n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    \n    <!-- Styles -->\n    <!-- Bootstrap CSS -->\n    <link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">\n    <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->\n    <link rel=\"stylesheet\" href=\"css/settings.css\" media=\"screen\" />\n    <!-- Pretty Photo CSS -->\n    <link href=\"css/prettyPhoto.css\" rel=\"stylesheet\">\n    <!-- Parallax slider -->\n    <link rel=\"stylesheet\" href=\"css/slider.css\">\n    <!-- Flexslider -->\n    <link rel=\"stylesheet\" href=\"css/flexslider.css\">\n    <!-- Font awesome CSS -->\n    <!--<link href=\"css/font-awesome.min.css\" rel=\"stylesheet\"> --> \n\n    <!-- Custom CSS -->\n    <link href=\"css/style.css\" rel=\"stylesheet\">\n    <!-- Colors - Orange, Purple, Light Blue (lblue), Red, Green and Blue -->\n    <link href=\"css/red.css\" rel=\"stylesheet\">\n    \n    <!-- Favicon -->\n    <link rel=\"shortcut icon\" href=\"img/favicon/favicon.png\">\n    <link href=\"http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n  </head>\n  \n  <body>\n\n  <!-- Header Starts -->\n    <header>\n      <div class=\"container\">\n      <div class=\"row\">\n        <!-- <div class=\"col-md-4 col-sm-4\"> -->\n        <div class=\"col-md-12\">\n        <div class=\"logo\">\n          <h1><a href=\"index.html\">CBM <span class=\"color\">Journal Club</span></a></h1>\n          <div class=\"hmeta\">Section of Computational Biomedicine</div>\n          <div class=\"hmeta\">Boston University School of Medicine</div>\n        </div>\n        </div>\n      <!--\n        <div class=\"col-md-5 col-md-offset-3 col-sm-6 col-sm-offset-2\">\n        \n          <form class=\"form-inline\" role=\"form\">\n            <div class=\"form-group\">\n            <input type=\"text\" class=\"form-control\" id=\"search\" placeholder=\"This doesn't work yet..\">\n            </div>\n            <button type=\"submit\" class=\"btn btn-default\">Search</button>\n          </form>\n        \n        </div>\n        -->\n      </div>\n      </div>\n    </header>\n\n    <!-- Navigation bar starts -->\n\n    <div class=\"navbar bs-docs-nav\" role=\"banner\">\n      <div class=\"container\">\n       <div class=\"navbar-header\">\n       <button class=\"navbar-toggle\" type=\"button\" data-toggle=\"collapse\" data-target=\".bs-navbar-collapse\">\n         <span class=\"sr-only\">Toggle navigation</span>\n         <span class=\"icon-bar\"></span>\n         <span class=\"icon-bar\"></span>\n         <span class=\"icon-bar\"></span>\n       </button>\n       </div>\n       \n        <nav class=\"collapse navbar-collapse bs-navbar-collapse\" role=\"navigation\">\n        <ul class=\"nav navbar-nav\">\n            <li class=\"dropdown\">\n                         <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\">Home <b class=\"caret\"></b></a>\n                         <ul class=\"dropdown-menu\">\n                           <li><a href=\"http://cbmjc.aniatassinari.com\">Journal Club Main Page</a></li>\n                           <li><a href=\"http://www.bumc.bu.edu/compbiomed/\" target=\"_blank\">About CBM</a></li>\n                           <li><a href=\"http://pulmonomics.com/tiki-list_file_gallery.php?galleryId=10\" target=\"_blank\">\n                            Past Journal Club Articles (wiki)\n                           </a></li>\n                           <li><a href=\"http://pulmonomics.com/tiki-list_file_gallery.php?galleryId=19\" target=\"_blank\">Past Journal Club Presentations (wiki)</a></li>\n                         </ul>\n                      </li> \n          <!-- Refer Bootstrap navbar doc -->\n          \n          <li><a href=\"index.html#papers\">Papers</a></li>\n          <li><a href=\"index.html#presenters\">Presenters</a></li>\n          <li><a href=\"http://www.bumc.bu.edu/compbiomed/contact-us/\">Contact</a></li>\n        </ul>\n        </nav>\n       </div>\n      </div>\n\n    <!-- Navigation bar ends -->\n\n<div class=\"content projects\">\n  <div class=\"container\">\n\n    <h2>April I 2015</h2>\n    <p class=\"big grey\">Presenter: <i><a href=\"aboutus.html#teresa\">Teresa Wang</a></i></p>\n    <hr />\n\n       <div class=\"row\">\n\n          <div class=\"col-md-8 col-sm-8\">\n                            <!-- Title -->\n                              <h3>Computational Paper</h3>\n                              \n                                \n                               <img src=\"img/photos/papers/paper_aprI2015_potm.png\" class=\"img-responsive\" alt=\"\" style=\"border:1px solid black\"/>\n                               \n                              \n                              <hr />\n\n                                 <div class=\"row\">\n          <div class=\"col-md-12\">\n            <blockquote>\n            <h6><strong>Abstract</strong></h6>\n            <p>\n\n            <b>Protein expression is regulated by the production and degradation of messenger RNAs (mRNAs) and proteins, but their specific relationships remain unknown. We combine measurements of protein production and degradation and mRNA dynamics so as to build a quantitative genomic model of the differential regulation of gene expression in lipopolysaccharide-stimulated mouse dendritic cells. Changes in mRNA abundance play a dominant role in determining most dynamic fold changes in protein levels. Conversely, the preexisting proteome of proteins performing basic cellular functions is remodeled primarily through changes in protein production or degradation, accounting for more than half of the absolute change in protein molecules in the cell. Thus, the proteome is regulated by transcriptional induction for newly activated cellular functions and by protein life-cycle changes for remodeling of preexisting functions.\n\n            </p>\n            <small>Jovanovic <i>et al.</i>, <span class=\"color\"><i>Science</i></span></small>\n            </blockquote>\n          </div>\n          <div class=\"col-md-12\">\n            <h6><strong>Summary</strong></h6>\n                                             <!-- List -->\n                                             <ul>\n                                                <li><strong>Purpose</strong></li>\n            <li><strong>Theoretical Framework</strong></li>\n            <li><strong>Sample</strong></li>\n            <li><strong>Methods</strong></li>\n            <li><strong>Measures</strong></li>\n            <li><strong>Results</strong></li>\n            <li><strong>Strengths / Limitations</strong></li>\n            <li><strong>Discussion</strong></li>\n                                             </ul>\n                                             <hr />\n\n          </div>\n          </div>\n                              \n                           </div>   \n                          \n                           <div class=\"col-md-4 col-sm-4\"> \n                              <!-- Project details -->\n                              <div class=\"prdetails well\">\n                                 <!-- Project title -->\n                                 \n                                 \n                                 <!-- Buttons -->\n                                 <div class=\"button\"><a href=\"http://www.sciencemag.org.ezproxy.bu.edu/content/347/6226/1259038.full.pdf\"><i class=\"fa fa-2x fa-file-pdf-o\"></i> Download the paper (PDF via proxy)</a> </div>\n                                 <div class=\"button\"><a href=\"http://www.sciencemag.org/content/347/6226/1259038\" target=\"blank\"><i class=\"fa fa-2x fa-globe\"></i> Read the paper online (publisher website)</a> </div>\n                                 <div class=\"button\"><a href=\"\"><i class=\"fa fa-2x fa-file-powerpoint-o\"></i> Download presentation slides (wiki)</a> </div>\n                                <hr>\n                                 <h6 class=\"title\"><strong>How to cite this paper</strong></h6>\n                                 <!-- Project para -->\n                                 <p><strong>MLA</strong>: Jovanovic, Mark. \"Dynamic Profiling of the Protein Life Cycle in Response to Pathogens.\" Science 347.6226 (2015): 12590381-7. Science. Web. 3 Apr. 2015.</p>\n                              </div>\n\n                           </div>\n                        </div>\n\n  \n<!-- Product & links ends --> \n\n  </div>\n</div>\n\n<!-- Social -->\n\n<div class=\"social-links\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-md-12\">\n        <p class=\"big\"><span>Follow Us On</span> <a href=\"https://www.facebook.com/compbiomed\"><i class=\"fa fa-facebook\"></i>Facebook</a> <a href=\"https://twitter.com/BU_CBM\"><i class=\"fa fa-twitter\"></i>Twitter</a><a href=\"https://www.linkedin.com/groups/Computational-Biomedicine-Boston-University-School-8186800?home=&gid=8186800&trk=anet_ug_hm&goback=%2Emid_I5926005501451059200*4500_*1_*1_*1\"><i class=\"fa fa-linkedin\"></i>LinkedIn</a></p>\n      </div>\n    </div>    \n  </div>\n</div>\n\n\n<!-- Footer -->\n<footer>\n  <div class=\"container\">\n   \n    <div class=\"row\"> \n      <div class=\"col-md-12\">\n          <div class=\"copy\">\n                <h6>CBM <span class=\"color\">Journal Club</span></h6>\n                <p>Copyright &copy; <a href=\"#\">CBM @ BU</a> - <a href=\"index.html\">Home</a> | <a href=\"aboutus.html\">About Us</a> | <a href=\"http://www.bumc.bu.edu/compbiomed/contact-us/\">Contact Us</a></p>\n              </div>\n      </div>\n    </div>\n  <div class=\"clearfix\"></div>\n  </div>\n</footer> \n    \n        \n    <!-- Javascript files -->\n    <!-- jQuery -->\n    <script src=\"js/jquery.js\"></script>\n    <!-- Bootstrap JS -->\n    <script src=\"js/bootstrap.min.js\"></script>\n    <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->\n    <script src=\"js/jquery.themepunch.plugins.min.js\"></script>\n    <script src=\"js/jquery.themepunch.revolution.min.js\"></script>\n    <!-- Isotope for gallery -->\n    <script src=\"js/jquery.isotope.js\"></script> \n    <!-- prettyPhoto for images -->\n    <script src=\"js/jquery.prettyPhoto.js\"></script> \n    <!-- Parallax slider -->\n    <script src=\"js/jquery.cslider.js\"></script>\n    <script src=\"js/modernizr.custom.28468.js\"></script>\n    <!-- Filter for support page -->\n    <script src=\"js/filter.js\"></script>\n    <!-- Cycle slider -->\n    <script src=\"js/cycle.js\"></script> \n    <!-- Flex slider -->\n    <script src=\"js/jquery.flexslider-min.js\"></script> \n    <!-- Easing -->\n    <script src=\"js/easing.js\"></script> \n    <!-- Respond JS for IE8 -->\n    <script src=\"js/respond.min.js\"></script>\n    <!-- HTML5 Support for IE -->\n    <script src=\"js/html5shiv.js\"></script>\n    <!-- Custom JS -->\n    <script src=\"js/custom.js\"></script>\n    <script>\n      // Revolution Slider\n      var revapi;\n      jQuery(document).ready(function() {\n           revapi = jQuery('.tp-banner').revolution(\n          {\n            delay: 9000,\n            startwidth: 1200,\n            startheight: 500,\n            hideThumbs: 200,\n            shadow: 0,\n            navigationType: \"none\",\n            hideThumbsOnMobile: \"on\",\n            hideArrowsOnMobile: \"on\",\n            hideThumbsUnderResoluition: 0,\n            touchenabled: \"on\",\n            fullWidth: \"on\"\n          });\n      }); \n    </script>\n  </body> \n</html>\n",
+			"file": "paper_aprI2015.html",
+			"file_size": 11564,
+			"file_write_time": 1428365811000000,
+			"settings":
+			{
+				"buffer_size": 11302,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "paper_aprII2015.html",
+			"settings":
+			{
+				"buffer_size": 12455,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/antass/GitHub/cbm-journalclub/themes/metro/index.html",
+		"/Users/antass/GitHub/cbm-journalclub/themes/metro/paper_febI2015.html",
+		"/Users/antass/GitHub/cbm-journalclub/themes/metro/paper_janI2015.html",
+		"/Users/antass/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/antass/GitHub/labnotebook/_posts/2014-08-04-AUC-best-model-35features-short2.md",
+		"/Users/antass/GitHub/labnotebook/_posts/2015-01-05-notes.md",
+		"/Users/antass/GitHub/labnotebook/_posts/2015-01-01-new-years-resolutions.md",
+		"/Users/antass/GitHub/labnotebook/wiki/datasets.html",
+		"/Users/antass/GitHub/labnotebook/_posts/2013-10-21-problems-with-gsea-cont'd.md",
+		"/Users/antass/GitHub/labnotebook/_posts/2013-10-21-problems-with-gsea.md",
+		"/Users/antass/GitHub/labnotebook/_posts/2013-10-21-kutd.md",
+		"/Users/antass/GitHub/labnotebook/_posts/2013-10-21-email-to-jen.md",
+		"/Users/antass/GitHub/labnotebook/_posts/2013-09-09-problems-with-gsea-cont'd.md",
+		"/Users/antass/GitHub/labnotebook/_posts/2013-09-12-problems-with-gsea-cont'd.md",
+		"/Users/antass/GitHub/labnotebook/wiki/data-sets.md",
+		"/Users/antass/GitHub/labnotebook/_posts/2013-10-22-notes-from-10-22-13-1-23.md",
+		"/Users/antass/.doingrc",
+		"/Users/antass/GitHub/labnotebook/list.txt",
+		"/Users/antass/GitHub/labnotebook/_posts/2013-06-29-the-opening-of-the-kyoto-chapter.md",
+		"/Users/antass/Downloads/MacOSx_TunnelblickViscosity_HMAConfigFiles_TCPandUDP/config_files/USA.SAN.DIEGO1-UDP.ovpn",
+		"/Users/antass/Dropbox/labnotebook/_posts/2013-06-19-first-note-from-mac.md",
+		"/Users/antass/Dropbox/labnotebook.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"liz",
+			"papers",
+			"mari",
+			"papers",
+			"col-r",
+			"col-l ",
+			"col-r",
+			"col-l{",
+			"col-l",
+			"teresa",
+			"papers",
+			"</code>",
+			"<code>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "paper_marI2015.html",
+					"settings":
+					{
+						"buffer_size": 12169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7821,
+								7821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2161.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "aboutus.html",
+					"settings":
+					{
+						"buffer_size": 17136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11677,
+								11677
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3629.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/bootstrap.min.css",
+					"settings":
+					{
+						"buffer_size": 91167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15017,
+								15017
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 103549.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 30344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5828,
+								5828
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5205.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 18656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15593,
+								15593
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7177.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/antass/Downloads/Radiohead - There There.lrc",
+					"settings":
+					{
+						"buffer_size": 1051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/antass/Desktop/K.taskpaper",
+					"settings":
+					{
+						"buffer_size": 13553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "paper_aprI2015.html",
+					"settings":
+					{
+						"buffer_size": 11302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5954,
+								5954
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2005.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "paper_aprII2015.html",
+					"settings":
+					{
+						"buffer_size": 12455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4655,
+								4655
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2708.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": false
+}

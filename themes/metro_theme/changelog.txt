@@ -1,0 +1,93 @@
+**Changelog:**
+
+**Version 4.5:**
+
+- Changed 'style' folder name  to 'css'.
+- Changed 'font' foldername to 'fonts'.
+- Updated Font awesome icon plugin.
+- Removed HTML5Shim and added HTML5Shiv.
+- Added Respond.min JS plugin.
+- Updated Bootstrap and jQuery.
+- Included minified version of font awesome icon css, bootstrap js and css to all html files. 
+- Removed Google web font code from HTML files and added to style.css.
+- Added charset meta utf-8 in all html files.
+- Changed images from hover-block in index file. (index.html)
+- Changed font-weight to normal in all forms label in theme. (style.css)
+- Fix spacing from suscribe form in coming-soon page . (style.css)
+- Added border to all type input box in theme. (style.css)
+- Changed members image in about pages.(aboutus.html, aboutus-1.html, aboutus-2.html)
+- Changed blog images in blog.html, blog-1.html, blog-2.html. blog-3.html, blog-4.html, blog-single.html.
+- Added padding in tabs content area in carrer page. (style.css)
+- Changed clients images in clients page. (clients.html) 
+- Fix bug from navtabs in components page. (style.css)
+- Fix animation bug from panel-group in events page. (events.html, style.css, blue.css, green.css, lblue.css, orange.css, purple.css, red.css)
+- Changed images in [featurs, gallery, portfolio, product, projects] page.
+- Removed indicators from slider in projects page. (projects.html)
+- Added class in form button in login page and register page. (login.html, register.html, login-register.html)
+- Added padding left in filter input box in support page. (style.css)
+- Added 'table-responsive' class in table in table page. (table.html)
+- Updated link color and link hover color. (style.css)
+- Updated search box in some pages.
+- Removed box shadow from landing page image. (style.css)
+- Removed custom fields from makepost.html page. 
+- Blog comment avatar size fix. (style.css)
+- Added new page index-rslider.html in theme. (style.css)
+
+**Version 4.2.1:**
+- FAQ page accordion fix (style.css).
+- Added extra space in Landing page button (landingpage.html).
+
+**Version 4.2:**
+- Accordion fix. (faq.html & style.css).
+
+**Version 4.1:**
+- Updated jQuery Cycle Plugin to latest version.
+- Removed reference to the backgorund image from slider.css. (slider.css)
+
+**Version 4:**
+ - Updated to Bootstrap 3.0
+
+**Version 3.3:**
+ - Twitter Feed Removed because of recent Twitter API Update.
+
+**Version 3.2:**
+ - Home page link fix (discover area). (custom.js)
+
+**Version 3.1:**
+
+ - Updated to Bootstrap 2.3.0
+ - Portfolio and Gallery fix (gallery.html, portfolio.html, portfolio1.html, custom.js)
+
+**Version 3.0:**
+
+ - Updated bootstrap.js to Version 2.2.2.
+ - Added 30+ new pages. 
+ - Added Twitter plugin (All html files).
+ - Added easing js plugin. (All html files).
+ - Added Flexslider. Flexslider css file and js file included in all HTML files. Image file "bg_direction_nav" added to img folder.
+ - Added two new colors (red.css, lblue.css).
+ - Support page update (support.html).
+ - Service section read more icon change.
+ - Footer widgets update (All html files).
+ - Lots of design improvements (style.css, blue.css, green.css, orange.css, purple.css)
+ - Added Colored testimonials (testimonial.html & style.css)
+ - IE Top Border fix. (blue.css, green.css, orange.css, purple.css)
+
+**Version 2.2:**
+
+ - Bootstrap updated to Version 2.2.2.
+
+**Version 2.0:**
+
+ - Font awesome icon updated to Version 3.0
+ - Icon fix in Service blocks (style.css).
+ - New Pages added - 404, About us, Blog, Features, Resume, Contact, Service, Testimonials (style.css, blue.css, green.css, purple.css, orange.css)
+
+**Version 1.2:**
+
+ - Navigation bar hover bug fixed.
+ - Button updated.
+
+**Version 1.0:**
+
+ - Initial Release.
